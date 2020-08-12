@@ -76,6 +76,7 @@ data:
         - cglib
         - cheese-libs-devel
         - chrpath
+        - clucene-core-devel
         - clutter-devel
         - clutter-gst3-devel
         - clutter-gtk-devel
@@ -481,6 +482,7 @@ data:
         - libev-devel
         - libevent-devel
         - libexif-devel
+        - libexttextcat-devel
         - libfontenc-devel
         - libgdither-devel
         - libgdl-devel
@@ -572,6 +574,7 @@ data:
         - libslirp-devel
         - libsmartcols-devel
         - libsndfile-devel
+        - libsodium-devel
         - libspectre-devel
         - libspf2-devel
         - libspiro-devel
@@ -657,6 +660,7 @@ data:
         - mecab-devel
         - mesa-libgbm-devel
         - meson
+        - metis-devel
         - mftrace
         - miniz-devel
         - mobile-broadband-provider-info-devel
@@ -971,6 +975,7 @@ data:
         - php-devel
         - physfs-devel
         - pipewire0.2-devel
+        - pipewire-devel
         - plexus-ant-factory
         - plexus-compiler
         - plexus-component-api
@@ -979,10 +984,6 @@ data:
         - plexus-interactivity-api
         - po4a
         - polkit-gnome
-        - poppler-cpp-devel
-        - poppler-data-devel
-        - poppler-devel
-        - poppler-glib-devel
         - portaudio-devel
         - postgresql-server
         - potrace-devel
@@ -1294,6 +1295,7 @@ data:
             - libmtp-devel
             - libraw1394-devel
             - libxml++-devel
+            - nasm
             - python3-libpamtest
             - tinyxml-devel
             - umockdev
@@ -1312,6 +1314,7 @@ data:
             - librtas-devel
             - libservicelog-devel
             - libxml++-devel
+            - nasm
             - python3-libpamtest
             - tinyxml-devel
             - umockdev
@@ -1334,6 +1337,7 @@ data:
             - libxml++-devel
             - libXvMC-devel
             - mesa-libxatracker-devel
+            - nasm
             - python3-libpamtest
             - tinyxml-devel
             - umockdev
